@@ -1,0 +1,85 @@
+"Data Type","Separation","Mechanism","Missingness Rate","Proximity Measure","Mean Zero-Overlap Pair Proportion","SD Zero-Overlap Pair Proportion","Mean Zero-Overlap Pair Count"
+"Continuous","moderate","MAR","10%","Eucl. (Pairwise)",5e-04,8e-04,20.5
+"Continuous","moderate","MAR","10%","Manh. (Pairwise)",5e-04,8e-04,20.5
+"Continuous","moderate","MAR","10%","Gower",5e-04,8e-04,20.5
+"Continuous","moderate","MAR","30%","Eucl. (Pairwise)",0.0624,0.0126,2800.4
+"Continuous","moderate","MAR","30%","Manh. (Pairwise)",0.0624,0.0126,2800.4
+"Continuous","moderate","MAR","30%","Gower",0.0624,0.0126,2800.4
+"Continuous","moderate","MAR","50%","Eucl. (Pairwise)",0.3607,0.0234,16178.8
+"Continuous","moderate","MAR","50%","Manh. (Pairwise)",0.3607,0.0234,16178.8
+"Continuous","moderate","MAR","50%","Gower",0.3607,0.0234,16178.8
+"Continuous","moderate","MCAR","10%","Eucl. (Pairwise)",2e-04,5e-04,11
+"Continuous","moderate","MCAR","10%","Manh. (Pairwise)",2e-04,5e-04,11
+"Continuous","moderate","MCAR","10%","Gower",2e-04,5e-04,11
+"Continuous","moderate","MCAR","30%","Eucl. (Pairwise)",0.0352,0.0087,1577.6
+"Continuous","moderate","MCAR","30%","Manh. (Pairwise)",0.0352,0.0087,1577.6
+"Continuous","moderate","MCAR","30%","Gower",0.0352,0.0087,1577.6
+"Continuous","moderate","MCAR","50%","Eucl. (Pairwise)",0.2374,0.0224,10648
+"Continuous","moderate","MCAR","50%","Manh. (Pairwise)",0.2374,0.0224,10648
+"Continuous","moderate","MCAR","50%","Gower",0.2374,0.0224,10648
+"Continuous","moderate","none","0%","Eucl. (Pairwise)",0,0,0
+"Continuous","moderate","none","0%","Manh. (Pairwise)",0,0,0
+"Continuous","moderate","none","0%","Gower",0,0,0
+"Continuous","strong","MAR","10%","Eucl. (Pairwise)",5e-04,9e-04,24
+"Continuous","strong","MAR","10%","Manh. (Pairwise)",5e-04,9e-04,24
+"Continuous","strong","MAR","10%","Gower",5e-04,9e-04,24
+"Continuous","strong","MAR","30%","Eucl. (Pairwise)",0.0612,0.0107,2745.3
+"Continuous","strong","MAR","30%","Manh. (Pairwise)",0.0612,0.0107,2745.3
+"Continuous","strong","MAR","30%","Gower",0.0612,0.0107,2745.3
+"Continuous","strong","MAR","50%","Eucl. (Pairwise)",0.3643,0.0238,16337.6
+"Continuous","strong","MAR","50%","Manh. (Pairwise)",0.3643,0.0238,16337.6
+"Continuous","strong","MAR","50%","Gower",0.3643,0.0238,16337.6
+"Continuous","strong","MCAR","10%","Eucl. (Pairwise)",3e-04,6e-04,13
+"Continuous","strong","MCAR","10%","Manh. (Pairwise)",3e-04,6e-04,13
+"Continuous","strong","MCAR","10%","Gower",3e-04,6e-04,13
+"Continuous","strong","MCAR","30%","Eucl. (Pairwise)",0.0349,0.0077,1567.5
+"Continuous","strong","MCAR","30%","Manh. (Pairwise)",0.0349,0.0077,1567.5
+"Continuous","strong","MCAR","30%","Gower",0.0349,0.0077,1567.5
+"Continuous","strong","MCAR","50%","Eucl. (Pairwise)",0.2378,0.0234,10666.8
+"Continuous","strong","MCAR","50%","Manh. (Pairwise)",0.2378,0.0234,10666.8
+"Continuous","strong","MCAR","50%","Gower",0.2378,0.0234,10666.8
+"Continuous","strong","none","0%","Eucl. (Pairwise)",0,0,0
+"Continuous","strong","none","0%","Manh. (Pairwise)",0,0,0
+"Continuous","strong","none","0%","Gower",0,0,0
+"Mixed","moderate","MAR","10%","Eucl. (Pairwise)",6e-04,8e-04,25.1
+"Mixed","moderate","MAR","10%","Manh. (Pairwise)",6e-04,8e-04,25.1
+"Mixed","moderate","MAR","10%","Gower",6e-04,8e-04,25.1
+"Mixed","moderate","MAR","30%","Eucl. (Pairwise)",0.0625,0.0118,2801.3
+"Mixed","moderate","MAR","30%","Manh. (Pairwise)",0.0625,0.0118,2801.3
+"Mixed","moderate","MAR","30%","Gower",0.0625,0.0118,2801.3
+"Mixed","moderate","MAR","50%","Eucl. (Pairwise)",0.3642,0.0247,16334.7
+"Mixed","moderate","MAR","50%","Manh. (Pairwise)",0.3642,0.0247,16334.7
+"Mixed","moderate","MAR","50%","Gower",0.3642,0.0247,16334.7
+"Mixed","moderate","MCAR","10%","Eucl. (Pairwise)",3e-04,5e-04,11.4
+"Mixed","moderate","MCAR","10%","Manh. (Pairwise)",3e-04,5e-04,11.4
+"Mixed","moderate","MCAR","10%","Gower",3e-04,5e-04,11.4
+"Mixed","moderate","MCAR","30%","Eucl. (Pairwise)",0.0349,0.0074,1563.5
+"Mixed","moderate","MCAR","30%","Manh. (Pairwise)",0.0349,0.0074,1563.5
+"Mixed","moderate","MCAR","30%","Gower",0.0349,0.0074,1563.5
+"Mixed","moderate","MCAR","50%","Eucl. (Pairwise)",0.237,0.0231,10630.7
+"Mixed","moderate","MCAR","50%","Manh. (Pairwise)",0.237,0.0231,10630.7
+"Mixed","moderate","MCAR","50%","Gower",0.237,0.0231,10630.7
+"Mixed","moderate","none","0%","Eucl. (Pairwise)",0,0,0
+"Mixed","moderate","none","0%","Manh. (Pairwise)",0,0,0
+"Mixed","moderate","none","0%","Gower",0,0,0
+"Mixed","strong","MAR","10%","Eucl. (Pairwise)",5e-04,8e-04,24.3
+"Mixed","strong","MAR","10%","Manh. (Pairwise)",5e-04,8e-04,24.3
+"Mixed","strong","MAR","10%","Gower",5e-04,8e-04,24.3
+"Mixed","strong","MAR","30%","Eucl. (Pairwise)",0.0617,0.0115,2765.8
+"Mixed","strong","MAR","30%","Manh. (Pairwise)",0.0617,0.0115,2765.8
+"Mixed","strong","MAR","30%","Gower",0.0617,0.0115,2765.8
+"Mixed","strong","MAR","50%","Eucl. (Pairwise)",0.3597,0.0235,16130.9
+"Mixed","strong","MAR","50%","Manh. (Pairwise)",0.3597,0.0235,16130.9
+"Mixed","strong","MAR","50%","Gower",0.3597,0.0235,16130.9
+"Mixed","strong","MCAR","10%","Eucl. (Pairwise)",3e-04,5e-04,12.8
+"Mixed","strong","MCAR","10%","Manh. (Pairwise)",3e-04,5e-04,12.8
+"Mixed","strong","MCAR","10%","Gower",3e-04,5e-04,12.8
+"Mixed","strong","MCAR","30%","Eucl. (Pairwise)",0.0347,0.0084,1556.4
+"Mixed","strong","MCAR","30%","Manh. (Pairwise)",0.0347,0.0084,1556.4
+"Mixed","strong","MCAR","30%","Gower",0.0347,0.0084,1556.4
+"Mixed","strong","MCAR","50%","Eucl. (Pairwise)",0.2382,0.0231,10684.9
+"Mixed","strong","MCAR","50%","Manh. (Pairwise)",0.2382,0.0231,10684.9
+"Mixed","strong","MCAR","50%","Gower",0.2382,0.0231,10684.9
+"Mixed","strong","none","0%","Eucl. (Pairwise)",0,0,0
+"Mixed","strong","none","0%","Manh. (Pairwise)",0,0,0
+"Mixed","strong","none","0%","Gower",0,0,0

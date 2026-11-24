@@ -1,0 +1,42 @@
+\begingroup
+\small
+
+\begin{center}
+	{\normalsize\bfseries Appendix A. Tables and Figures}
+\end{center}
+\addcontentsline{toc}{section}{Appendix A. Tables and Figures}
+
+\vspace{0.5\baselineskip}
+
+\noindent\textbf{Table 1}\\
+\textit{Aggregate ARI Results by Proximity Measure, Missingness Rate, and Clustering Method}
+
+\vspace{0.5em}
+
+\begin{center}
+	\renewcommand{\arraystretch}{1.0}
+	\begin{tabular}{@{}llcccccc@{}}
+		\toprule
+		Data Type & Proximity Measure & 0\% & 10\% & 30\% & 50\% & PAM & UPGMA \\
+		\midrule
+		\multicolumn{8}{@{}p{0.92\linewidth}@{}}{\textit{Columns 0--50\% summarize ARI by missingness rate; PAM and UPGMA summarize ARI by clustering method.}}\\
+		\midrule
+		Continuous & Eucl. (Imputed) & 0.196 (0.279) & 0.169 (0.242) & 0.099 (0.139) & 0.038 (0.055) & 0.230 (0.221) & 0.001 (0.013) \\
+		Continuous & Eucl. (Pairwise) & 0.196 (0.279) & 0.066 (0.113) & 0.042 (0.068) & 0.032 (0.050) & 0.134 (0.174) & 0.002 (0.020) \\
+		Continuous & Manh. (Imputed) & 0.208 (0.292) & 0.175 (0.255) & 0.076 (0.113) & 0.036 (0.053) & 0.221 (0.234) & 0.002 (0.026) \\
+		Continuous & Manh. (Pairwise) & 0.208 (0.292) & 0.076 (0.129) & 0.046 (0.071) & 0.034 (0.052) & 0.143 (0.184) & 0.005 (0.041) \\
+		Continuous & Gower & 0.261 (0.319) & 0.084 (0.131) & 0.035 (0.055) & 0.029 (0.046) & 0.132 (0.194) & 0.028 (0.104) \\
+		Mixed & Eucl. (Imputed) & 0.319 (0.111) & 0.254 (0.092) & 0.133 (0.079) & 0.046 (0.045) & 0.208 (0.134) & 0.131 (0.109) \\
+		Mixed & Eucl. (Pairwise) & 0.319 (0.111) & 0.229 (0.082) & 0.110 (0.094) & 0.067 (0.078) & 0.198 (0.117) & 0.125 (0.127) \\
+		Mixed & Manh. (Imputed) & 0.312 (0.097) & 0.277 (0.090) & 0.156 (0.072) & 0.073 (0.057) & 0.235 (0.134) & 0.143 (0.083) \\
+		Mixed & Manh. (Pairwise) & 0.312 (0.097) & 0.215 (0.058) & 0.109 (0.091) & 0.070 (0.081) & 0.199 (0.102) & 0.115 (0.116) \\
+		Mixed & Gower & 0.294 (0.084) & 0.219 (0.083) & 0.114 (0.084) & 0.065 (0.078) & 0.182 (0.103) & 0.129 (0.122) \\
+		\bottomrule
+	\end{tabular}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent\textit{Note.} Values are mean adjusted Rand index (ARI), with standard deviations (SDs) in parentheses. Missingness-rate columns average across clustering methods, missing-data mechanisms, and separation conditions. Clustering-method columns average across missingness rates, missing-data mechanisms, and separation conditions. PAM = Partitioning Around Medoids; UPGMA = Unweighted Pair Group Method with Arithmetic Mean.
+
+\endgroup
