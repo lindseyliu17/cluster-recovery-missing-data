@@ -1,0 +1,30 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Quick-test outputs written by RUN_DRY_RUN
+output/dry_run/
+
+# Data files: this project uses simulated data only
+data/
+*.sav
+*.dta
+*.xlsx
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*.nav
+*.snm
+
+# macOS
+.DS_Store
